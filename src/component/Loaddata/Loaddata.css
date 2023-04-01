@@ -1,0 +1,13 @@
+.arafat{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.arafat{
+    border: 2px solid yellowgreen;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: black;
+}
